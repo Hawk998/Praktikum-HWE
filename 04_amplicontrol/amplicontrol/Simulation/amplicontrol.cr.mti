@@ -1,0 +1,43 @@
+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/abs_square.v {1 {vlog -work work +incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL -stats=none C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/abs_square.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module abs_square
+
+Top level modules:
+	abs_square
+
+} {} {}} C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/alu_fixed_point.v {1 {vlog -work work +incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL -stats=none C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/alu_fixed_point.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alu_fixed_point
+
+Top level modules:
+	alu_fixed_point
+
+} {} {}} C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/eps_calc.v {1 {vlog -work work +incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL -stats=none C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/eps_calc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eps_calc
+
+Top level modules:
+	eps_calc
+
+} {} {}} C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Testbench/amp_regler_tb.v {1 {vlog -work work +incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL -stats=none C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Testbench/amp_regler_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module amp_regler_tb
+
+Top level modules:
+	amp_regler_tb
+
+} {} {}} C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/accumulator.v {1 {vlog -work work +incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL -stats=none C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/accumulator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module accumulator
+
+Top level modules:
+	accumulator
+
+} {} {}} C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/amp_regler_top.v {1 {vlog -work work +incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL -stats=none C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/amp_regler_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module amp_regler_top
+
+Top level modules:
+	amp_regler_top
+
+} {} {}}

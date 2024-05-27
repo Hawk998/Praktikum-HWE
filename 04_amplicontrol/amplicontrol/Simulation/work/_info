@@ -1,0 +1,142 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Simulation
+vabs_square
+Z0 !s110 1716820931
+!i10b 1
+!s100 dBOTOQmGA_AfPzGC<`9>Z0
+IFPm`j4O^2]U7YiC`6ZETo1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Simulation
+Z3 w1716811076
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/abs_square.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/abs_square.v
+L0 3
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1716820930.000000
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/abs_square.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/abs_square.v|
+!i113 1
+Z5 o-work work
+Z6 !s92 -work work +incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL
+Z7 tCvgOpt 0
+vaccumulator
+R0
+!i10b 1
+!s100 7O0gbiJ95zW8NF6g6TWXV3
+I=>]nYmjBDADDbPdRF]fn@3
+R1
+R2
+R3
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/accumulator.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/accumulator.v
+L0 3
+R4
+r1
+!s85 0
+31
+Z8 !s108 1716820931.000000
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/accumulator.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/accumulator.v|
+!i113 1
+R5
+R6
+R7
+valu_fixed_point
+R0
+!i10b 1
+!s100 fl7M<MK0MELgC1>0_mD<o1
+Io^6Cl5kh]]_m0n0[@`I3Y1
+R1
+R2
+R3
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/alu_fixed_point.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/alu_fixed_point.v
+L0 3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/alu_fixed_point.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/alu_fixed_point.v|
+!i113 1
+R5
+R6
+R7
+vamp_regler_tb
+!s110 1716827516
+!i10b 1
+!s100 kikogm^HV@N?:Z`7He^j42
+I]_DXiRBg]i`]QZSZTAf@I0
+R1
+R2
+w1716827507
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Testbench/amp_regler_tb.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Testbench/amp_regler_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1716827516.000000
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Testbench/amp_regler_tb.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Testbench/amp_regler_tb.v|
+!i113 1
+R5
+R6
+R7
+vamp_regler_top
+R0
+!i10b 1
+!s100 aXTa93`efRgDLnGBG]gHz0
+IkZhH?>ML<`;fj;:kSbWVC2
+R1
+R2
+R3
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/amp_regler_top.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/amp_regler_top.v
+L0 3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/amp_regler_top.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/amp_regler_top.v|
+!i113 1
+R5
+R6
+R7
+veps_calc
+R0
+!i10b 1
+!s100 OY57Qm0OFj>b[hS<??MJA3
+IM5fePn9@X:KmbHYbO`H^02
+R1
+R2
+R3
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/eps_calc.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/eps_calc.v
+L0 3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/eps_calc.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/global_HDL|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Verilog/eps_calc.v|
+!i113 1
+R5
+R6
+R7

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/04_amplicontrol/amplicontrol/Simulation
+valu_fixed_point
+Z0 !s110 1716824841
+!i10b 1
+!s100 d0@jedSJ^P:gdY1<JUle32
+IJWHK6YW1E96>G79TNn2mW3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Simulation
+w1716529882
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Verilog/alu_fixed_point.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Verilog/alu_fixed_point.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1716824841.000000
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/globalHDL/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Verilog/alu_fixed_point.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/globalHDL|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Verilog/alu_fixed_point.v|
+!i113 1
+Z5 o-work work
+Z6 !s92 -work work +incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/globalHDL
+Z7 tCvgOpt 0
+valu_fixed_point_file_input_tb
+R0
+!i10b 1
+!s100 534V^0A5^]TH>eM6YbJDj1
+IX=fYGjBhWeXZVdl2V3^X31
+R1
+R2
+w1716824586
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Testbench/alu_fixed_point_file_input_tb.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Testbench/alu_fixed_point_file_input_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/globalHDL/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Testbench/alu_fixed_point_file_input_tb.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/globalHDL|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktikum/5_ALU/verilog/Testbench/alu_fixed_point_file_input_tb.v|
+!i113 1
+R5
+R6
+R7
