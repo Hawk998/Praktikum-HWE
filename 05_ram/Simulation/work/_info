@@ -8,28 +8,116 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA_lite/18.1
-vnco_index_increment
-Z0 !s110 1717165921
+valu_fixed_point
+Z0 !s110 1717346787
 !i10b 1
-!s100 0YXJ2<8ZaG8<=DM1e@i=h0
-IQnCo8W4:`EQ1UW79A=cg_2
+!s100 fl7M<MK0MELgC1>0_mD<o1
+I7EgZboMfWiM6Q@@n5bDLH3
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Simulation
-Z3 w1717160112
-8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_index_increment.v
-FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_index_increment.v
+w1716811076
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/alu_fixed_point.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/alu_fixed_point.v
 L0 3
-Z4 OV;L;10.5b;63
+Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1717165921.000000
+Z4 !s108 1717346787.000000
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/alu_fixed_point.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/alu_fixed_point.v|
+!i113 1
+Z5 o-work work
+Z6 !s92 -work work {+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog}
+Z7 tCvgOpt 0
+vcomplex_mult
+R0
+!i10b 1
+!s100 d``eV:^WKVhF_g[5n9Ib92
+Ii<8Dgz2PNYk@afCPX_bYa0
+R1
+R2
+w1717343588
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/comlex_mult.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/comlex_mult.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/comlex_mult.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/comlex_mult.v|
+!i113 1
+R5
+R6
+R7
+vcomplex_mult_top
+R0
+!i10b 1
+!s100 480F2Wo:NRGGZzk:IDV613
+IBiS;97VibU36on>T@8kD70
+R1
+R2
+w1717344992
+Z8 8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_mult_tb.v
+Z9 FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_mult_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_mult_tb.v|
+Z10 !s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_mult_tb.v|
+!i113 1
+R5
+R6
+R7
+vcomplex_mult_top_tb
+!s110 1717348236
+!i10b 1
+!s100 X`Ge?64Nm`:SOI10OSa1U3
+IXLT?<lBOZjiOC1]5liIIM0
+R1
+R2
+w1717348230
+R8
+R9
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1717348236.000000
+!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_mult_tb.v|
+R10
+!i113 1
+R5
+R6
+R7
+vnco_index_increment
+R0
+!i10b 1
+!s100 0YXJ2<8ZaG8<=DM1e@i=h0
+IQnCo8W4:`EQ1UW79A=cg_2
+R1
+R2
+Z11 w1717160112
+8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_index_increment.v
+FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_index_increment.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
 !s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_index_increment.v|
 !s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_index_increment.v|
 !i113 1
-Z6 o-work work
-Z7 !s92 -work work {+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog}
-Z8 tCvgOpt 0
+R5
+R6
+R7
 vnco_ram
 R0
 !i10b 1
@@ -41,17 +129,17 @@ w1717161881
 8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_ram.v
 FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_ram.v
 L0 40
-R4
+R3
 r1
 !s85 0
 31
-R5
+R4
 !s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_ram.v|
 !s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_ram.v|
 !i113 1
+R5
 R6
 R7
-R8
 vnco_top
 R0
 !i10b 1
@@ -59,40 +147,18 @@ R0
 I44IDO>V4=dI]CI;5fhPd90
 R1
 R2
-R3
+R11
 8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_top.v
 FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_top.v
 L0 3
-R4
+R3
 r1
 !s85 0
 31
-R5
+R4
 !s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_top.v|
 !s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/nco_top.v|
 !i113 1
+R5
 R6
 R7
-R8
-vnco_top_tb
-!s110 1717165998
-!i10b 1
-!s100 9L^64<ekfH[9?Pg4@__Vo3
-IXOeF6@EWmMae6[Vom8_050
-R1
-R2
-R3
-8C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/nco_top_tb.v
-FC:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/nco_top_tb.v
-L0 5
-R4
-r1
-!s85 0
-31
-!s108 1717165998.000000
-!s107 C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/nco_top_tb.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog|-stats=none|C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/nco_top_tb.v|
-!i113 1
-R6
-R7
-R8

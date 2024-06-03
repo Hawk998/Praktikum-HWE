@@ -26,7 +26,7 @@ always
 initial begin
 	clk = 0;
 	rst = `RST_VAL;
-	delta_index_i = -32'b00_11111010_0000000000000000000000; // 1024/4.096=250
+	delta_index_i = -32'b00_11111010_0000000000000000000000;
 	valid_i  = 1'b1;
 	
 	#100
