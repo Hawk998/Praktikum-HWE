@@ -1,19 +1,12 @@
-{C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v} {1 {vlog -work work {+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog} -stats=none {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v}
+{C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_tb.v} {1 {vlog -work work {+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog} -stats=none {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_tb.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-
-} {} {}} {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/comlex_mult.v} {1 {vlog -work work {+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog} -stats=none {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/comlex_mult.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module complex_mult
+-- Compiling module complex_tb
 
 Top level modules:
-	complex_mult
+	complex_tb
 
-} {} {}} {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_mult_tb.v} {1 {vlog -work work {+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog} -stats=none {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Testbench/complex_mult_tb.v}
+} {} {}} {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v} {1 {vlog -work work {+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog} -stats=none {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/projectGlobalParam.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module complex_mult_top_tb
-
-Top level modules:
-	complex_mult_top_tb
 
 } {} {}} {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/alu_fixed_point.v} {1 {vlog -work work {+incdir+C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog} -stats=none {C:/Users/Johannes/Desktop/Hardwareentwurf/Praktika HWE/Praktikum-HWE/05_ram/Verilog/alu_fixed_point.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016

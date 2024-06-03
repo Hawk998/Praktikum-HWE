@@ -1,3 +1,4 @@
+
 `include "projectGlobalParam.v"
 
 module complex_mult(
@@ -53,7 +54,7 @@ alu_fixed_point MULT_SINREAL(
 	.clk		(clk),
 	.rst		(rst),
 	.op1_i		(nco_sin),
-	.op2_i		(real_i_i),
+	.op2_i		(real_i),
 	.mode_i		(3'd2),
 	.valid_i	(valid_i),
 	
@@ -82,7 +83,7 @@ alu_fixed_point #(.W_in(16), .W_out(16)) YREAL_SUB(
 	.valid_i	(mult_val_real),
 	
 	.res_o		(res_yreal),
-	.valid_o	(valid_o)
+	.valid_o	()
 );
 
 alu_fixed_point #(.W_in(16), .W_out(16)) YIMAG_ADD(
@@ -94,7 +95,7 @@ alu_fixed_point #(.W_in(16), .W_out(16)) YIMAG_ADD(
 	.valid_i	(mult_val_imag),
 	
 	.res_o		(res_yimag),
-	.valid_o	()
+	.valid_o	(valid_o)
 );
 
 
