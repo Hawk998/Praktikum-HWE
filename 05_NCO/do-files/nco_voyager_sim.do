@@ -5,7 +5,7 @@ vlog -work work +incdir+C:/Users/fliege/Dropbox/_work/_HSE/Praktika_2021/Kap5/gl
 vlog -work work +incdir+C:/Users/fliege/Dropbox/_work/_HSE/Praktika_2021/Kap5/globalHDL -stats=none C:/Users/fliege/Dropbox/_work/_HSE/Praktika_2021/Kap5/Verilog/nco_ram_MF.v
 vlog -work work +incdir+C:/Users/fliege/Dropbox/_work/_HSE/Praktika_2021/Kap5/globalHDL -stats=none C:/Users/fliege/Dropbox/_work/_HSE/Praktika_2021/Kap5/Verilog/nco_index_increment.v
 
-##simulation
+##simulate
 vsim -gui work.nco_voyager_top_tb -Lf altera_mf_ver
 
 onerror {resume}
